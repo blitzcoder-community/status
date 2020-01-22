@@ -1,2 +1,1 @@
-# status
-https://www.blitzcoder.org site status
+status.blitzcoder.org
