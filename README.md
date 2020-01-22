@@ -1,2 +1,2 @@
 # status
-www.blitzcoder.org site status
+https://www.blitzcoder.org site status
