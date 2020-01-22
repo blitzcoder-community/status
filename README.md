@@ -1,1 +1,3 @@
-status.blitzcoder.org
+01/22/20
+========
+Community Home Page: https://www.blitzcoder.org/forum/
