@@ -1,3 +1,7 @@
+04/29/20
+========
+Site is under maintenance and currently solving the intermittent server down issue.
+
 04/24/20
 ========
 Experiencing intermittent server issues. This should be resolved soon.
