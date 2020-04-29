@@ -1,5 +1,9 @@
 04/29/20
 ========
+Site is back online. [https://www.blitzcoder.org/forum/](https://www.blitzcoder.org/forum/?home)
+
+04/29/20
+========
 Site is under maintenance and currently solving the intermittent server down issue.
 
 04/24/20
