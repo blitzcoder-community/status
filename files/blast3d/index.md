@@ -21,4 +21,11 @@ Virus and Security Checks for Runtime DLLs and Example Demo Binaries.
 - blastcc.exe ([hash: 65fe027](https://www.virustotal.com/gui/file/65fe0270d74b28a3b278116fde4ad2712969753951c4ef2dd90295a1b49a3fe5/detection))
 - Blast3D.exe ([hash: 90a643a](https://www.virustotal.com/gui/file/90a643a855c1e110b12e1de6aa63c3bcc0b99f7f0e98504bae356e283693e783/detection))
 
+### Build 111222
+
+- runtime.dll ([hash: 8d0c709](https://www.virustotal.com/gui/file/8d0c709b3f465a97fec98f083b4a4dac70b8e37fd78ec5b7eff372b13951c88e/detection))
+- blastcc.exe ([hash: 998d75d](https://www.virustotal.com/gui/file/998d75d12bf076c1a0f7ecc45224dafbf6dbc5ed78d299b08aedbdc096b54c25/detection))
+- Blast3D.exe ([hash: 06b4554](https://www.virustotal.com/gui/file/06b4554edff662853c9d8e2743123a77e58683c4293913166a9bc711f54e3653/detection))
+
+
 
