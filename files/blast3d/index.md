@@ -9,9 +9,7 @@ Virus and Security Checks for Runtime DLLs and Example Demo Binaries.
 - blastcc.exe ([hash: a6ffe23](https://www.virustotal.com/gui/file/a6ffe23158ced6aecd9a519054bf1e7babec443054a3f4f2a35d79f00a42fd16/detection))
 - Blast3D.exe ([hash: 19923a6](https://www.virustotal.com/gui/file/19923a640ec6c4ee0b47e041d99e29b4cb3a844e2d66f0eb9cbdab495730c0e7/detection))
 - bouncyaliens.exe ([hash: 8df1dcf](https://www.virustotal.com/gui/file/8df1dcfced24119b541b78faffff0e4dc676196cbf56594d34f2489efcf3c617/detection))
-
-
-
+- DoM.exe ([hash: 780b58d](https://www.virustotal.com/gui/file/780b58de519dc0e57a39693a9a1017187c220aa9a14186782e669b2f463836b3/detection))
 
 ### Build 111222
 
