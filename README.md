@@ -1,3 +1,7 @@
+03/10/23
+========
+Site is having CloudFlare and caching issues. This should be resolved soon.
+
 04/29/20
 ========
 Site is back online. [https://www.blitzcoder.org/forum/](https://www.blitzcoder.org/forum/?home)
