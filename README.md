@@ -1,3 +1,7 @@
+10/05/23
+========
+Site is having error 500 and internal hosting issues. This should be resolved soon.
+
 03/12/23
 ========
 Site issues has been resolved.
